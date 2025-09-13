@@ -8,7 +8,11 @@
 
 ## Product Overview
 Bazaar is a web application that helps transform underutilized office spaces into bookable cultural and retail experiences.  
-Consumers can explore and book spaces **for free**, while landlords gain new opportunities to activate and monetize their vacant properties.  
+Consumers can explore and book spaces **for free**, while landlords gain new opportunities to activate and monetize their vacant properties. 
+
+## Mission & Vision
+Mission: Make every city space in NYC discoverable, accessible, and alive.  
+Vision: Revitalize urban retail and culture by transforming empty offices into hubs of experiences and community.  
 
 ## Features
 - 🔑 Free bookings for consumers  
@@ -21,10 +25,6 @@ Consumers can explore and book spaces **for free**, while landlords gain new opp
 - Frontend: React, JavaScript, Tailwind CSS
 - APIs: Google Maps API (Maps, Places, Geocoding)
 - Icons: Lucide React
-
-## Mission & Vision
-Mission: Make every city space in NYC discoverable, accessible, and alive.  
-Vision: Revitalize urban retail and culture by transforming empty offices into hubs of experiences and community.  
 
 ---
 
