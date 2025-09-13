@@ -1,7 +1,7 @@
 # Bazaar — Your City's Living Room 🏙️
 
 ## Overview
-Bazaar is a modern React + Node.js web application that transforms underutilized office spaces into bookable cultural and retail experiences.  
+Bazaar is a web application that helps transform underutilized office spaces into bookable cultural and retail experiences.  
 Consumers can explore and book spaces **for free**, while landlords gain new opportunities to activate and monetize their vacant properties.  
 
 ## Features
