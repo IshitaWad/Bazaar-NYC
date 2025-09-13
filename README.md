@@ -1,4 +1,4 @@
-# Bazaar — Your City's Living Room 🏙️
+# Bazaar: Your City's Living Room 🏙️
 
 ## Overview
 Bazaar is a web application that helps transform underutilized office spaces into bookable cultural and retail experiences.  
@@ -22,4 +22,4 @@ Vision: Revitalize urban retail and culture by transforming empty offices into h
 
 ---
 
-🚀 **Discover and book vacant office spaces for free — with Bazaar, your city becomes your living room.**
+🚀 **Discover and book vacant office spaces for free: with Bazaar, your city becomes your living room.**
