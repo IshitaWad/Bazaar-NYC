@@ -17,7 +17,7 @@ Consumers can explore and book spaces **for free**, while landlords gain new opp
 - Icons: Lucide React
 
 ## Mission & Vision
-Mission: Make every city space discoverable, accessible, and alive.  
+Mission: Make every city space in NYC discoverable, accessible, and alive.  
 Vision: Revitalize urban retail and culture by transforming empty offices into hubs of experiences and community.  
 
 ---
