@@ -1,6 +1,12 @@
 # Bazaar: Your City's Living Room 🏙️
 
-## Overview
+## Problem
+- Over 18% of Manhattan’s office space is now vacant — a historic high since before COVID.
+- Only ~67% of pre-pandemic visitation in many office buildings — meaning many offices are significantly underused.
+- Zoning laws limit conversions: until recently only older buildings (pre-1961 or 1977) in certain districts could be converted; newer laws are expanding eligibility up to pre-1990 buildings.
+- Even with tax incentives like the 467-m program, conversion requires affordable housing quotas, specific deadlines, and regulatory compliance — making many conversions non-feasible or costly.
+
+## Product Overview
 Bazaar is a web application that helps transform underutilized office spaces into bookable cultural and retail experiences.  
 Consumers can explore and book spaces **for free**, while landlords gain new opportunities to activate and monetize their vacant properties.  
 
